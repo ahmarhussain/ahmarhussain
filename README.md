@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **Anything related to Full Stack.**
+- 💬 Ask me about **anything related to Full Stack (JavaScript) ❤️**
 
 - 📫 How to reach me **ahmarhussain.ah@gmail.com**
 
-- ⚡ Fun fact **I day dream alot :D**
+- ⚡ Fun fact **I day dream a lot :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
